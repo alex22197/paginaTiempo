@@ -1,5 +1,5 @@
 
-var urlWeather="http://api.openweathermap.org/data/2.5/forecast?lat=40.5361528&lon=-3.6291320&units=metric&appid=14fe9989ca36d46bacd247989900d8d5&mode=xml";
+var urlWeather="https://api.openweathermap.org/data/2.5/forecast?lat=40.5361528&lon=-3.6291320&units=metric&appid=14fe9989ca36d46bacd247989900d8d5&mode=xml";
 
 document.addEventListener("DOMContentLoaded", function(event){
 	controlador(urlWeather);
