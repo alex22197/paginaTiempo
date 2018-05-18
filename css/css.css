@@ -1,0 +1,36 @@
+table,td,th{
+	
+	border:solid 1px black;
+	padding: 3px;
+}
+ul{
+	list-style-type: none;
+	padding: 7px;
+	
+}
+li{
+	padding: 7px;
+	margin:7px;
+
+}
+.lista{
+	text-align: center;
+	float:center;
+	padding: 1rem;
+}
+.inputs{
+	padding: 7px;
+	background-color: #FFEECF;
+}
+.desplegable{
+	border: solid 2px black;
+	height: 300px;
+	width: 399px;
+}
+#imagen{
+	width: 100px;
+	height: 80px;
+}
+h1{
+	text-align: center;
+}
